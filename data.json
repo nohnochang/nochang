@@ -11,14 +11,13 @@
     ]
   },
 
-  "Team project": [
+  "project": [
     {
       "id": 0,
       "name": "캡스톤 디자인",
       "description": "딥러닝 모델을 사용한 주차관제시스템입니다.",
-      "webUrl": "https://github.com/nochang/",
-      "repoUrl": "https://github.com/nochang/",
-      "isTeam": true,
+      "webUrl": "https://github.com/nohnochang/",
+      "repoUrl": "https://github.com/nohnochang/",
       "period": ["2023. 04", "2023. 11"],
       "stack": ["Mysql", "python", "linux", "opencv", "yolov5"]
     }
