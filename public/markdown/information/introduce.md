@@ -1,7 +1,4 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 항상 배우며 지금에 자리에서 머물지않고 발전하는 개발자가 되고싶습니다.
+- 본인에게 주어진일이 있다면 책임감을 가지고 끝까지 마무리하는 집념이 있습니다.
+- 여러 아르바이트를 해본 경험으로 환경에 적응하는건 잘할 자신있습니다.
+- 대학때 프로젝트 팀장을 했을때 다른 팀원들과 여러 커뮤니케이션 문제를 겪어보고 해결해 봤습니다.
